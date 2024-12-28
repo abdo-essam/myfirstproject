@@ -27,3 +27,6 @@ A simple Flutter project that demonstrates the use of StatelessWidget to display
 ## Code Explanation
 
 The project uses a StatelessWidget to create a simple UI that displays images and text. The layout is centered and uses Column and Row widgets for arrangement. Custom styling is applied to the text using TextStyle.
+
+## Output
+![Output Screenshot](screenshot.png)
